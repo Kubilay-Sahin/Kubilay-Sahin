@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubilay-sahin&label=Profile%20views&color=0e75b6&style=flat" alt="kubilay-sahin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kubilay-sahin" alt="kubilay-sahin" /></a> </p>
-
 - 🔭 I’m currently working on **working on Sentinel (Cloud Threat Detection System).**
 
 - 🌱 I’m currently learning **Google Cloud Platform & Python.**
@@ -26,6 +24,6 @@
 * **Key Tech:** Serverless Computing, Event-Driven Architecture, Data Engineering.
 * **Status:** Active Development 🟢
 
-[Check out the Repository](https://github.com/KULLANICI_ADIN/sentinel-threat-hunter)
+[Check out the Repository](https://github.com/kubilay-sahin/sentinel-threat-hunter)
 ---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kubilay-sahin&show_icons=true&locale=en" alt="kubilay-sahin" /></p>
+>
